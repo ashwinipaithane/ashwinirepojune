@@ -12,6 +12,7 @@ public class ashwini_class {
 		int len=str1.length();
 		System.out.println(len);
 		//code by ashwini
+		//code change 2nd time
 		
 		for(int i=str1.length()-1;i>=0;i--)
 		{
