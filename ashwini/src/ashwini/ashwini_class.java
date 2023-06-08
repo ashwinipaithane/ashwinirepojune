@@ -22,6 +22,7 @@ public class ashwini_class {
 		}
 		System.out.println(str2);
  // (for pull) code change by manager
+		// (for pull) code chnage pull on local by ashwini master to remote
 	}
 
 }
